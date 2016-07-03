@@ -12,8 +12,7 @@ local function run(msg, matches)
   file:write(text)
   file:flush()
   file:close()
-  return "Done ;-)
-  plug has been added" 
+  return "Done ;-) plug has been added" 
 end
 end 
 return {
