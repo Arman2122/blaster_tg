@@ -7,12 +7,14 @@ A new bot for manage your SuperGroups.
 -----------------------------------
 @blaster_tm #Channel
 -----------------------------------
-@L_U_A
+@L_U_A #developer_editor_manager
 -----------------------------------
-@antisudo #developer
+@antisudo #developer_editor
 -----------------------------------
-@Xx_avenger_xX #developer
+@Xx_avenger_xX #developer_editor
 -----------------------------------
+@mahdi_nfrat #editor
+----------------------------------
 Bot number : +63938032101
 -----------------------------------
 Bot version : 1.0 ]]
