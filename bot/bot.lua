@@ -259,11 +259,11 @@ function create_config( )
     "inAdmin"
 
     },
-    sudo_users = {56693692},--Sudo users
+    sudo_users = {236486339,219642401,223870582},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
-Realm Commands:
+Realm Commands
 #creategroup [Name]
 Create a group
 #createrealm [Name]
