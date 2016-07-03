@@ -1,1 +1,1 @@
-developers : # [Arman](telegram.me/l_U_A
+developers : # [Arman](telegram.me/l_U_A)
