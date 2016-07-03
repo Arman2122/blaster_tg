@@ -11,4 +11,4 @@ admin : [amir](telegram.me/blaster_tm)
 
 
 
-edit by : [blastrt team](telegram.me/blaster_tm)
+edit by : [blaster team](telegram.me/blaster_tm)
