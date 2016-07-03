@@ -1,34 +1,34 @@
 do
 
 function run(msg, matches)
-  return [[B L A C K +
+  return [[B L /-\ S T E R
 -----------------------------------
 A new bot for manage your SuperGroups.
 -----------------------------------
-@Black_CH #Channel
+@blaster_tm #Channel
 -----------------------------------
-@MehdiHS #developer
+@L_U_A
 -----------------------------------
-@YflQw #manager
+@antisudo #developer
 -----------------------------------
-@Mr_Surena #manager
+@Xx_avenger_xX #developer
 -----------------------------------
-Bot number : +19092545429
+Bot number : +63938032101
 -----------------------------------
-Bot version : 6.7 ]]
+Bot version : 1.0 ]]
 end
 return {
   description = ".", 
-  usage = "use black command",
+  usage = "use blaster command",
   patterns = {
-    "^/black$",
-    "^!black$",
-    "^%bLack$",
-    "^$black$",
-   "^#Black$",
-   "^#Black",
-   "^/black$",
-   "^#black$",
+    "^/blaster$",
+    "^!blaster$",
+    "^%bLaster$",
+    "^$blaster$",
+   "^#Blaster$",
+   "^#Blaster",
+   "^/blaster$",
+   "^#blaster$",
 
   },
   run = run
